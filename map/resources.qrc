@@ -1,0 +1,18 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>Main.qml</file>
+
+        <!-- Section 01 -->
+        <file>images/section_01_head.png</file>
+        <file>images/section_01_tail.png</file>
+
+        <!-- Section 02 -->
+        <file>images/section_02_head.png</file>
+        <file>images/section_02_tail.png</file>
+
+        <!-- Section 03 -->
+        <file>images/section_03_head.png</file>
+        <file>images/section_03_tail.png</file>
+    </qresource>
+</RCC> 
